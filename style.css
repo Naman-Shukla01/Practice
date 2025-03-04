@@ -40,7 +40,7 @@ body{
 
 @media (max-width:600px) {
     .btn{
-        height: 7rem;
-        width: 7rem;
+        height: 3rem;
+        width: 3rem;
     }
 }
